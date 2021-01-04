@@ -1,0 +1,8 @@
+phy#0
+	Interface wlan0
+		ifindex 3
+		wdev 0x1
+		addr 70:5d:cc:f3:37:7c
+		type monitor
+		channel 2 (2417 MHz), width: 20 MHz (no HT), center1: 2417 MHz
+		txpower 20.00 dBm
